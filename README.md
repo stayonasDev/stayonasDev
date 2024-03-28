@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
+
+![stayonasDev GitHub stats](https://github-readme-stats.vercel.app/api?username=stayonasDev&show_icons=true&theme=algolia)
