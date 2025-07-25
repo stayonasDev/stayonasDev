@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Notion=000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/swagger=85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Notion=000000?style=for-the-badge&logo=Notion&logoColor=black">
+<img src="https://img.shields.io/badge/Swagger=85EA2D?style=for-the-badge&logo=Swagger&logoColor=black">
 <img src="https://img.shields.io/badge/postman=FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   
 </div>
