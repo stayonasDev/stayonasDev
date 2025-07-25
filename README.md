@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 <h3>collaborative tool</h3>
 <div>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=git&logoColor=white">
-  
+<img src="https://img.shields.io/badge/000000?style=for-the-badge&logo=git&logoColor=white">
 </div>
